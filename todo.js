@@ -37,7 +37,7 @@ class AppComponent extends React.Component {
     })
   }
 
-}//class
+}//AppComponent
 
 
 ReactDOM.render(
